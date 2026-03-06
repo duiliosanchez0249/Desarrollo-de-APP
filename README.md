@@ -10,7 +10,7 @@ Este proyecto permite gestionar un catálogo de videojuegos, permitiendo el regi
 
 ---
 
-## 🛠️ Instalación y Requisitos
+## Instalación y Requisitos
 
 ### 1. Clonar el repositorio
 ```bash
